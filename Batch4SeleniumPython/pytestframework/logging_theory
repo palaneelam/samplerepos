@@ -1,0 +1,11 @@
+Logging reports
+
+Logs has certain precendence severity
+Debug
+Info
+Warning
+Error
+Critical
+
+Industry standard format of loogin looks like:
+# <date> <timestamp> <severity> : <testname>: <message desciption>

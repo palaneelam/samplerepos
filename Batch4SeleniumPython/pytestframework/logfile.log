@@ -1,0 +1,8 @@
+2024-04-24 09:55:24,487 :DEBUG : test_loggingReport :A debug statement is executed
+2024-04-24 09:55:24,489 :INFO : test_loggingReport :Information statement
+2024-04-24 09:55:24,490 :WARNING : test_loggingReport :Something is in warning mode
+2024-04-24 09:55:24,490 :ERROR : test_loggingReport :A major error has happened
+2024-04-24 09:55:24,490 :CRITICAL : test_loggingReport :Critical Issue
+2024-04-24 09:58:01,112 :WARNING : test_loggingReport :Something is in warning mode
+2024-04-24 09:58:01,113 :ERROR : test_loggingReport :A major error has happened
+2024-04-24 09:58:01,113 :CRITICAL : test_loggingReport :Critical Issue
